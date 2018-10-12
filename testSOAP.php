@@ -1,8 +1,8 @@
 <?php
 	
 	//***** THIS PART MUST BE FOR GET TOKEN*****\\
-	$pass="mmwje4rrVhpJpQ9dcnn2";
-	$appiPass="ApcGyRTUFzuYA8htZd8h";	
+	$pass="*******";
+	$appiPass="**********";	
 	$md5Pass=md5($pass);
 	$md5API=md5($appiPass);
 	
